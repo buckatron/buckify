@@ -1,6 +1,6 @@
 # buckify
 
-pls dont hack using the exposed client and secret
+pls dont hack using the exposed client and secret lol
 
 directions:
 [install python](https://www.python.org/)
