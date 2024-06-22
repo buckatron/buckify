@@ -4,6 +4,7 @@ pls dont hack using the exposed client and secret lol
 
 directions:
 [install python](https://www.python.org/)
+
 open terminal on your computer
 
 run:
